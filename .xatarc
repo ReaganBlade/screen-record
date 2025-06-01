@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Rohit-Tudu-s-workspace-hfi9k1.us-east-1.xata.sh/db/snap_cast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
